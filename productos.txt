@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Mate",
+    "price": 250,
+    "thumbnail": "https://image.com/product-one",
+    "id": 1
+  },
+  {
+    "title": "Tornillo",
+    "price": 10.25,
+    "thumbnail": "https://image.com/product-two",
+    "id": 2
+  },
+  {
+    "title": "Televisor LCD",
+    "price": 499999,
+    "thumbnail": "https://image.com/product-three",
+    "id": 3
+  }
+]
